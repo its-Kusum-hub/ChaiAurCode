@@ -1,5 +1,3 @@
-//for run cd Javascript , cd 01-basic then node 03-ConversionOrOperation.js
-
 const score = "33";
 
 console.log(typeof score);
