@@ -1,4 +1,3 @@
-const accountId = 144553;
 let accountemail = "Kusum@123gmail.com";
 var accountPassword = "1234";
 accountCity = "jaipur";
